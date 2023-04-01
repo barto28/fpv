@@ -45,7 +45,7 @@ set roll_level_expo = 0
 set pitch_level_expo = 0
 
 rateprofile 2
-set rateprofile_name = High 850
+set rateprofile_name = High 900
 set thr_mid = 50
 set thr_expo = 30
 set rates_type = ACTUAL
