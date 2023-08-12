@@ -701,7 +701,7 @@ set osd_units = METRIC
 set osd_warn_bitmask = 57213
 set osd_rssi_alarm = 20
 set osd_link_quality_alarm = 80
-set osd_rssi_dbm_alarm = -60
+set osd_rssi_dbm_alarm = -85
 set osd_rsnr_alarm = 4
 set osd_cap_alarm = 2200
 set osd_alt_alarm = 100
@@ -1034,4 +1034,4 @@ set pitch_level_expo = 0
 # end the command batch
 batch end
 
-# 
+# Don't forget to save bruh
